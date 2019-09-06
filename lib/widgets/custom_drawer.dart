@@ -8,6 +8,7 @@ class CustomDrawer extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    //
     // Cria fundo degradê
     Widget _buildDrawerBack() => Container(
           decoration: BoxDecoration(
